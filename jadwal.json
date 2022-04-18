@@ -111,5 +111,33 @@
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     }
+  },
+  {
+    "id": 5,
+    "name": "Jinx Pro Graham",
+    "urlAvatar": "https://images.unsplash.com/photo-1581403341630-a6e0b9d2d257?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "email": "General@april.biz",
+    "hari": "Selasa",
+    "jamMulai": "19:00",
+    "jamSelesai": "20:00",
+    "kodeMatkul": "MK02",
+    "namaMatkul": "Coding Keamanan Sesuatu",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
   }
 ]
