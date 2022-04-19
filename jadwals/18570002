@@ -1,0 +1,47 @@
+[
+  {
+    "id": 14,
+    "kodeMatkul": "MK67",
+    "namaMatkul": "Bahasa Jepang I",
+    "hari": "Senin",
+    "jamMulai": "17:00",
+    "jamSelesai": "19:00",
+    "ruangan": {
+      "kodeRuangan": "102",
+      "lokasiRuangan": "Lantai 1"
+    },
+    "link": {
+      "linkClassroom": "https:Link Classroom",
+      "linkMeet": "https:Link Meet"
+    },
+    "dosen": {
+      "nameDosen": "Chieka Rahiem. SJ",
+      "urlAvatar": "https://images.unsplash.com/photo-1581403341630-a6e0b9d2d257?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "emailDosen": "ChiekaRahhiem@dosen.stmik.jayakarta.ac.id",
+      "phone": "0812345678"
+    }
+  },
+  {
+    "id": 15,
+    "kodeMatkul": "MK68",
+    "namaMatkul": "Penulisan Penelitian Ilmiah",
+    "hari": "Senin",
+    "jamMulai": "19:00",
+    "jamSelesai": "21:00",
+    "ruangan": {
+      "kodeRuangan": "302",
+      "lokasiRuangan": "Lantai 3"
+    },
+    "link": {
+      "linkClassroom": "https:Link Classroom",
+      "linkMeet": "https:Link Meet"
+    },
+    "dosen": {
+      "nameDosen": "Wahyu Agung M. S.Kom",
+      "urlAvatar": "https://images.unsplash.com/photo-1581403341630-a6e0b9d2d257?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "emailDosen": "WahyuAgung@dosen.stmik.jayakarta.ac.id",
+      "phone": "0812345678"
+    }
+  }
+ 
+]
