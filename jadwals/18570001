@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "kodeMatkul": "MK01",
+    "namaMatkul": "Bahasa Indonesia I",
+    "hari": "Senin",
+    "jamMulai": "17:00",
+    "jamSelesai": "19:00",
+    "ruangan": {
+      "kodeRuangan": "101",
+      "lokasiRuangan": "Lantai 1"
+    },
+    "link": {
+      "linkClassroom": "https:Link Classroom",
+      "linkMeet": "https:Link Meet"
+    },
+    "dosen": {
+      "nameDosen": "BagasKara Farhan Jauza. SH",
+      "urlAvatar": "https://images.unsplash.com/photo-1581403341630-a6e0b9d2d257?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "emailDosen": "BagasKara@dosen.stmik.jayakarta.ac.id",
+      "phone": "0812345678"
+    }
+  },
+  {
+    "id": 2,
+    "kodeMatkul": "MK02",
+    "namaMatkul": "Bahasa Pemrograman Web",
+    "hari": "Senin",
+    "jamMulai": "19:00",
+    "jamSelesai": "21:00",
+    "ruangan": {
+      "kodeRuangan": "201",
+      "lokasiRuangan": "Lantai 2"
+    },
+    "link": {
+      "linkClassroom": "https:Link Classroom",
+      "linkMeet": "https:Link Meet"
+    },
+    "dosen": {
+      "nameDosen": "Aldi Mudaffar. SSS",
+      "urlAvatar": "https://images.unsplash.com/photo-1581403341630-a6e0b9d2d257?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "emailDosen": "AldiMudaffar@dosen.stmik.jayakarta.ac.id",
+      "phone": "0812345678"
+    }
+  }
+ 
+]
