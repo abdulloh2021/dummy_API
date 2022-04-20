@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "sks": "2",
+    "bobot": "8",
+    "nilaiHuruf": "A",
+    "nilaiAngka": "3,9",
+    "matkul": {
+      "kodeMatkul": "MK01",
+      "namaMatkul": "Bahasa Indonesia I",
+      "hari": "Senin",
+      "jamMulai": "17:00",
+      "jamSelesai": "19:00",
+    }
+  },
+  {
+    "id": 2,
+    "sks": "3",
+    "bobot": "12",
+    "nilaiHuruf": "B+",
+    "nilaiAngka": "3,4",
+    "matkul": {
+      "kodeMatkul": "MK02",
+      "namaMatkul": "Bahasa Jerman II",
+      "hari": "Selasa",
+      "jamMulai": "19:00",
+      "jamSelesai": "21:00",
+    }
+  },
+]
