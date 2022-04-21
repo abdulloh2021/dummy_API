@@ -1,6 +1,10 @@
 [
   {
     "id": 1,
+    "sks": "2",
+    "bobot": "8",
+    "nilaiHuruf": "A",
+    "nilaiAngka": "3,9",
     "name": "Leanne Graham",
     "username": "Abdulloh GGGGGGGG",
     "email": "Abdulloh@april.biz",
@@ -26,6 +30,10 @@
   },
   {
     "id": 2,
+    "sks": "3",
+    "bobot": "12",
+    "nilaiHuruf": "B+",
+    "nilaiAngka": "3,4",
     "name": "Ervin Howell",
     "username": "Bagas BBBBBBB",
     "email": "Bagas@melissa.tv",
