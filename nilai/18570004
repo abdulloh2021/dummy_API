@@ -26,5 +26,33 @@
       "jamMulai": "17:00",
       "jamSelesai": "19:00"
     }
+  },
+  {
+    "id": 3,
+    "sks": "4",
+    "bobot": "12",
+    "nilaiHuruf": "A-",
+    "nilaiAngka": "3,9",
+    "matkul": {
+      "kodeMatkul": "MK01",
+      "namaMatkul": "Bahasa Pemrograman Web I",
+      "hari": "Senin",
+      "jamMulai": "17:00",
+      "jamSelesai": "19:00"
+    }
+  },
+  {
+    "id": 4,
+    "sks": "4",
+    "bobot": "12",
+    "nilaiHuruf": "B-",
+    "nilaiAngka": "3,9",
+    "matkul": {
+      "kodeMatkul": "MK01",
+      "namaMatkul": "Penulisan dan Pencarian Indonesia I",
+      "hari": "Senin",
+      "jamMulai": "17:00",
+      "jamSelesai": "19:00"
+    }
   }
 ]
