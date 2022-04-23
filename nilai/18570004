@@ -54,5 +54,19 @@
       "jamMulai": "17:00",
       "jamSelesai": "19:00"
     }
+  },
+  {
+    "id": 5,
+    "sks": "20",
+    "bobot": "100",
+    "nilaiHuruf": "S+",
+    "nilaiAngka": "3,9",
+    "matkul": {
+      "kodeMatkul": "MK01",
+      "namaMatkul": "Mantap Belajar",
+      "hari": "Sabtu",
+      "jamMulai": "17:00",
+      "jamSelesai": "19:00"
+    }
   }
 ]
