@@ -1,0 +1,17 @@
+[
+  {
+    "nim": 18570002,
+    "nama": "Bagas Farhan Jauza",
+    "jurusan": "TKJ",
+    "angkatan": "2018",
+    "email": "Bagas@gmail.com",
+    "urlAvatar": "https://avatars.githubusercontent.com/u/94303542?s=400&u=4198c14e8a7247fb35c25f01431a2950c9e1d049&v=4",
+    "matkul": {
+      "kodeMatkul": "MK01",
+      "namaMatkul": "Bahasa Indonesia I",
+      "hari": "Senin",
+      "jamMulai": "17:00",
+      "jamSelesai": "19:00"
+    }
+  }
+]
