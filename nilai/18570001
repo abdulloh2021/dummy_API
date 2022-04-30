@@ -20,11 +20,82 @@
     "nilaiHuruf": "B+",
     "nilaiAngka": "3,4",
     "matkul": {
-      "kodeMatkul": "MK02",
-      "namaMatkul": "Bahasa Jerman II",
-      "hari": "Selasa",
-      "jamMulai": "19:00",
-      "jamSelesai": "21:00"
+      "kodeMatkul": "MK01",
+      "namaMatkul": "Bahasa Inggris I",
+      "hari": "Senin",
+      "jamMulai": "17:00",
+      "jamSelesai": "19:00"
     }
   },
+  {
+    "id": 3,
+    "sks": "4",
+    "bobot": "12",
+    "nilaiHuruf": "A-",
+    "nilaiAngka": "3,9",
+    "matkul": {
+      "kodeMatkul": "MK01",
+      "namaMatkul": "Bahasa Pemrograman Web I",
+      "hari": "Senin",
+      "jamMulai": "17:00",
+      "jamSelesai": "19:00"
+    }
+  },
+  {
+    "id": 4,
+    "sks": "4",
+    "bobot": "12",
+    "nilaiHuruf": "B-",
+    "nilaiAngka": "3,9",
+    "matkul": {
+      "kodeMatkul": "MK01",
+      "namaMatkul": "Penulisan dan Pencarian Indonesia I",
+      "hari": "Senin",
+      "jamMulai": "17:00",
+      "jamSelesai": "19:00"
+    }
+  },
+  {
+    "id": 5,
+    "sks": "20",
+    "bobot": "100",
+    "nilaiHuruf": "S+",
+    "nilaiAngka": "3,9",
+    "matkul": {
+      "kodeMatkul": "MK01",
+      "namaMatkul": "Mantap Belajar",
+      "hari": "Sabtu",
+      "jamMulai": "17:00",
+      "jamSelesai": "19:00"
+    }
+  },
+  
+  {
+    "id": 6,
+    "sks": "4",
+    "bobot": "12",
+    "nilaiHuruf": "C+",
+    "nilaiAngka": "3,9",
+    "matkul": {
+      "kodeMatkul": "MK01",
+      "namaMatkul": "Penulisan dan Pencarian Jati Diri Ku Sangat Mantap I",
+      "hari": "Senin",
+      "jamMulai": "17:00",
+      "jamSelesai": "19:00"
+    }
+  },
+  {
+    "id": 7,
+    "sks": "20",
+    "bobot": "100",
+    "nilaiHuruf": "S",
+    "nilaiAngka": "3,9",
+    "matkul": {
+      "kodeMatkul": "MK01",
+      "namaMatkul": "Mantap Belajar",
+      "hari": "Sabtu",
+      "jamMulai": "17:00",
+      "jamSelesai": "19:00"
+    }
+  }
 ]
